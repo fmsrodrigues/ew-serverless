@@ -1,0 +1,1 @@
+You can use `serverless invoke -f img-analysis --path request.json` to customize the event object in the CLI
